@@ -1,4 +1,4 @@
-#MAGIC METHOD
+# MAGIC METHOD
 
 Magic methods adalah metode khusus yang menggantikan perilaku default PHP ketika beberapa aksi dilakukan pada objek. Misalnya, ketika kita membuat objek baru, metode __construct () akan dipanggil secara otomatis. Magic methods menggunakan awalan __ (double underscore) diikuti nama metodenya. Beberapa contoh magic methods adalah:
 
